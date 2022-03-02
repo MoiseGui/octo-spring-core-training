@@ -9,7 +9,7 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.function.Predicate;
 
-@Component
+//@Component
 public class LanguageRepositoryImpl implements LanguageRepository {
   private static final List<Language> LANGUAGES;
 
